@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_lite",
+    "pos_x": "-2012",
+    "pos_y": "2928",
+    "scale": "5",
+    "CTSpawn_x": "0.17",
+    "CTSpawn_y": "0.43",
+    "TSpawn_x": "0.85",
+    "TSpawn_y": "0.45",
+    "bombA_x": "0.23",
+    "bombA_y": "0.19",
+    "bombB_x": "0.19",
+    "bombB_y": "0.72"
+}

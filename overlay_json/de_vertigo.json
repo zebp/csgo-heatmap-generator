@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_vertigo_radar",
+    "pos_x": "-3168",
+    "pos_y": "1762",
+    "scale": "4.0",
+    "CTSpawn_x": "0.71",
+    "CTSpawn_y": "0.22",
+    "TSpawn_x": "0.42",
+    "TSpawn_y": "0.22",
+    "bombA_x": "0.69",
+    "bombA_y": "0.37",
+    "bombB_x": "0.21",
+    "bombB_y": "0.24"
+}

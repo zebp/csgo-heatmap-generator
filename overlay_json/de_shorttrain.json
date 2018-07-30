@@ -1,0 +1,12 @@
+{
+    "material": "overviews/de_shorttrain_radar",
+    "pos_x": "-2477",
+    "pos_y": "2392",
+    "scale": "4.7",
+    "CTSpawn_x": "0.86",
+    "CTSpawn_y": "0.77",
+    "TSpawn_x": "0.12",
+    "TSpawn_y": "0.25",
+    "bombA_x": "0.63",
+    "bombA_y": "0.49"
+}

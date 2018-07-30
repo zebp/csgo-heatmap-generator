@@ -1,0 +1,18 @@
+{
+    "material": "overviews/cs_militia_radar",
+    "pos_x": "-1474",
+    "pos_y": "2296",
+    "scale": "4.5",
+    "CTSpawn_x": "0.78",
+    "CTSpawn_y": "0.86",
+    "TSpawn_x": "0.40",
+    "TSpawn_y": "0.22",
+    "Hostage1_x": "0.45",
+    "Hostage1_y": "0.28",
+    "Hostage2_x": "0.57",
+    "Hostage2_y": "0.39",
+    "Hostage3_x": "0.45",
+    "Hostage3_y": "0.37",
+    "Hostage4_x": "0.35",
+    "Hostage4_y": "0.30"
+}

@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_facade_radar",
+    "pos_x": "-90",
+    "pos_y": "5659",
+    "scale": "6",
+    "CTSpawn_x": "0.68",
+    "CTSpawn_y": "0.77",
+    "TSpawn_x": "0.30",
+    "TSpawn_y": "0.35",
+    "bombA_x": "0.38",
+    "bombA_y": "0.67",
+    "bombB_x": "0.83",
+    "bombB_y": "0.42"
+}

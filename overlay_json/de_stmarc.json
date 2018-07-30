@@ -1,0 +1,12 @@
+{
+    "material": "overviews/de_stmarc",
+    "pos_x": "-9383",
+    "pos_y": "9099",
+    "scale": "4",
+    "CTSpawn_x": "0.15",
+    "CTSpawn_y": "0.54",
+    "TSpawn_x": "0.83",
+    "TSpawn_y": "0.78",
+    "bomb_x": "0.60",
+    "bomb_y": "0.52"
+}

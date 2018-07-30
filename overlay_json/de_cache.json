@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_cache_radar",
+    "pos_x": "-2000",
+    "pos_y": "3250",
+    "scale": "5.5",
+    "CTSpawn_x": "0.09775",
+    "CTSpawn_y": "0.473",
+    "TSpawn_x": "0.887",
+    "TSpawn_y": "0.585",
+    "bombA_x": "0.325",
+    "bombA_y": "0.26",
+    "bombB_x": "0.345",
+    "bombB_y": "0.79"
+}

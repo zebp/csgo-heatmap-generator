@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_santorini_radar",
+    "pos_x": "-2135",
+    "pos_y": "1400",
+    "scale": "4",
+    "CTSpawn_x": "0.318",
+    "CTSpawn_y": "0.08",
+    "TSpawn_x": "0.643",
+    "TSpawn_y": "0.92",
+    "bombA_x": ".806",
+    "bombA_y": "0.245",
+    "bombB_x": "0.139",
+    "bombB_y": "0.4"
+}

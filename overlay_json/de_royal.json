@@ -1,0 +1,16 @@
+{
+    "material": "overviews/de_royal_radar",
+    "pos_x": "-2343",
+    "pos_y": "2644",
+    "scale": "4",
+    "rotate": "0",
+    "zoom": "1.3",
+    "CTSpawn_x": ".63",
+    "CTSpawn_y": ".07",
+    "TSpawn_x": ".38",
+    "TSpawn_y": ".95",
+    "bombA_x": ".23",
+    "bombA_y": ".2",
+    "bombB_x": ".81",
+    "bombB_y": ".32"
+}

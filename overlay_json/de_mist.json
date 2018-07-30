@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_mist",
+    "pos_x": "-5150",
+    "pos_y": "2080",
+    "scale": "4.8",
+    "CTSpawn_x": "0.61",
+    "CTSpawn_y": "0.91",
+    "TSpawn_x": "0.35",
+    "TSpawn_y": "0.07",
+    "bombA_x": "0.57",
+    "bombA_y": "0.73",
+    "bombB_x": "0.35",
+    "bombB_y": "0.41"
+}

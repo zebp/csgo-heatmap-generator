@@ -1,0 +1,22 @@
+{
+  "name": "csgo-heatmap-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "babel-node --presets env app.js",
+    "debug": "babel-node inspect --presets env app.js",
+    "map-generate": "babel-node --presets env mapjsongenerator.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.0.0",
+    "babel-preset-env": "^1.7.0"
+  },
+  "dependencies": {
+    "demofile": "^0.4.18",
+    "hsl-to-rgb-for-reals": "^1.1.0",
+    "jimp": "^0.2.28"
+  }
+}

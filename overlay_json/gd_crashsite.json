@@ -1,0 +1,14 @@
+{
+    "material": "overviews/gd_crashsite_radar",
+    "pos_x": "-2212",
+    "pos_y": "1437",
+    "scale": "3.5",
+    "rotate": "0",
+    "zoom": "0",
+    "CTSpawn_x": "0.4",
+    "CTSpawn_y": "0.7",
+    "TSpawn_x": "0.44",
+    "TSpawn_y": "0.22",
+    "bombA_x": "0.4",
+    "bombA_y": "0.63"
+}

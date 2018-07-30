@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_coast",
+    "pos_x": "-3028",
+    "pos_y": "4122",
+    "scale": "5.50",
+    "CTSpawn_x": "0.54",
+    "CTSpawn_y": "0.21",
+    "TSpawn_x": "0.48",
+    "TSpawn_y": "0.83",
+    "bombA_x": "0.84",
+    "bombA_y": "0.32",
+    "bombB_x": "0.23",
+    "bombB_y": "0.20"
+}

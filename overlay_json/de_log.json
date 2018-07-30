@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_log",
+    "pos_x": "-411",
+    "pos_y": "759",
+    "scale": "6.50",
+    "CTSpawn_x": "0.45",
+    "CTSpawn_y": "0.9",
+    "TSpawn_x": "0.52",
+    "TSpawn_y": "0.08",
+    "bombA_x": "0.3",
+    "bombA_y": "0.6",
+    "bombB_x": "0.76",
+    "bombB_y": "0.8"
+}

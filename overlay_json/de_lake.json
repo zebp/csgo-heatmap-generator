@@ -1,0 +1,14 @@
+{
+    "material": "overviews/de_lake",
+    "pos_x": "1200",
+    "pos_y": "-700",
+    "scale": "5.2",
+    "rotate": "0",
+    "zoom": "0",
+    "CTSpawn_x": "0.17",
+    "CTSpawn_y": "0.65",
+    "TSpawn_x": "0.77",
+    "TSpawn_y": "0.50",
+    "bomb_x": "0.47",
+    "bomb_y": "0.66"
+}

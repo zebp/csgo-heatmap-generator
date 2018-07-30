@@ -1,0 +1,16 @@
+{
+    "material": "overviews/de_marquis_radar",
+    "pos_x": "-1877",
+    "pos_y": "3199",
+    "scale": "5.0",
+    "rotate": "0",
+    "zoom": "1.0",
+    "CTSpawn_x": "0.96",
+    "CTSpawn_y": "0.41",
+    "TSpawn_x": "0.11",
+    "TSpawn_y": "0.64",
+    "bombA_x": "0.72",
+    "bombA_y": "0.64",
+    "bombB_x": "0.62",
+    "bombB_y": "0.24"
+}

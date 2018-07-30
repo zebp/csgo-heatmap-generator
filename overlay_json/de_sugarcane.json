@@ -1,0 +1,12 @@
+{
+    "material": "overviews/de_sugarcane",
+    "pos_x": "-4015",
+    "pos_y": "2000",
+    "scale": "4.25",
+    "CTSpawn_x": "0.19",
+    "CTSpawn_y": "0.74",
+    "TSpawn_x": "0.86",
+    "TSpawn_y": "0.39",
+    "bomb_x": "0.50",
+    "bomb_y": "0.41"
+}

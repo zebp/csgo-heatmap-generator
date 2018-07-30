@@ -1,0 +1,16 @@
+{
+    "material": "overviews/de_nuke",
+    "pos_x": "-3453",
+    "pos_y": "2887",
+    "scale": "7",
+    "AltitudeMax": "-495",
+    "AltitudeMin": "-10000",
+    "CTSpawn_x": "0.82",
+    "CTSpawn_y": "0.45",
+    "TSpawn_x": "0.19",
+    "TSpawn_y": "0.54",
+    "bombA_x": "0.58",
+    "bombA_y": "0.48",
+    "bombB_x": "0.58",
+    "bombB_y": "0.58"
+}
