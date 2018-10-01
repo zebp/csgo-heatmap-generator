@@ -1,14 +1,14 @@
 {
   "name": "csgo-heatmap-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "A NodeJS program to generate heatmaps of kills and deaths from Counter-Strike: Global Offensive Demos",
   "main": "app.js",
   "scripts": {
     "start": "babel-node --presets env app.js",
     "debug": "babel-node inspect --presets env app.js",
     "map-generate": "babel-node --presets env mapjsongenerator.js"
   },
-  "author": "",
+  "author": "Vlakreeh",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.0.0",
