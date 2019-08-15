@@ -15,7 +15,7 @@
     "babel-preset-env": "^1.7.0"
   },
   "dependencies": {
-    "demofile": "^0.4.18",
+    "demofile": "^1.0.6",
     "hsl-to-rgb-for-reals": "^1.1.0",
     "jimp": "^0.2.28"
   }
