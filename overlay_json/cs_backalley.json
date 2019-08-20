@@ -1,1 +1,19 @@
-{}
+{
+    "material": "overviews/cs_backalley",
+    "pos_x": "-2485",
+    "pos_y": "3200",
+    "scale": "3.50",
+    "//": "Hostage6_y",
+    "CTSpawn_x": "0.72",
+    "CTSpawn_y": "0.85",
+    "TSpawn_x": "0.45",
+    "TSpawn_y": "0.09",
+    "Hostage1_x": "0.28",
+    "Hostage1_y": "0.25",
+    "Hostage2_x": "0.49",
+    "Hostage2_y": "0.35",
+    "Hostage3_x": "0.5",
+    "Hostage3_y": "0.52",
+    "Hostage4_x": "0.38",
+    "Hostage4_y": "0.25"
+}

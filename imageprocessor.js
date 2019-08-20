@@ -22,7 +22,8 @@ const applyHeatmapFilter = (image, unfilteredPoints) => {
             let color = intToRGBA(image.getPixelColor(x, y))
             let dstColor = convertHSB({ h: 0.7 - (0.7 * relativeTemperature), s: 1, b: relativeTemperature })        
 
-            image.setPixelColor(toHex(blend(color, dstColor, relativeTemperature)), x, y)
+            const blended = blend(color, dstColor, relativeTemperature)
+            image.setPixelColor(toHex(blended), x, y)
         }
     }
 }

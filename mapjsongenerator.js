@@ -1,6 +1,6 @@
 import { readdirSync, readFile, writeFile } from 'fs'
 
-const regex = /'(\w*)'\s+'(.*)'/gm
+const regex = /"\s+"(.+)"\s+"(.*)".+/gm
 
 let files = readdirSync('./overlay_info/')
 
@@ -21,14 +21,13 @@ files.forEach(file => {
 function generateJson(str){
     let output = {}
 
-    let match;
-
-    while ((match = regex.exec(str)) !== null) {
-        if (match.index === regex.lastIndex)
-            regex.lastIndex++
-
-        output[match[1]] = match[2] // Adds data from the map file into the json object.
-    }
+    str.split("\n").forEach(line => {
+        const found = line.replace(/\r/g, "").split(/\t/).filter(segment => segment.length > 0).map(segment => segment.replace(/"/g, ""))
+        
+        if (found.length >= 2) {
+            output[found[0]] = found[1]
+        }
+    })
 
     return JSON.stringify(output, null, 4) // four spaces best spaces
 }
