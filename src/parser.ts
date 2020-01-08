@@ -50,6 +50,8 @@ export default function parse(demoPath: string, csgoDirectory: string): Promise<
         });
 
         demo.on("start", async () => {
+            console.log(`Parsing ${demo.header.mapName}...`);
+
             const overlayInfo = await parseOverlayInformation(csgoDirectory, demo.header.mapName);
             result.mapData = {
                 name: demo.header.mapName,
